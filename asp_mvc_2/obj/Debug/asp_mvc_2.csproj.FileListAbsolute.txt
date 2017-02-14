@@ -1,0 +1,100 @@
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\ApplicationInsights.config
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\csc.exe
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Collections.Immutable.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\vbc.exe
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe.config
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll.config
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.pdb
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\EntityFramework.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\EntityFramework.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.xml
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.csprojResolveAssemblyReference.cache
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.dll
+D:\Halokes\Desktop\ASP\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.pdb
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\ApplicationInsights.config
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\csc.exe
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Collections.Immutable.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\vbc.exe
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\roslyn\VBCSCompiler.exe.config
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll.config
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\asp_mvc_2.pdb
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.Web.Infrastructure.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\EntityFramework.SqlServer.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.Web.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.AI.WindowsServer.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.ApplicationInsights.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Razor.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Deployment.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Webpages.Razor.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Helpers.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\bin\System.Web.Mvc.xml
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.csprojResolveAssemblyReference.cache
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.dll
+D:\Halokes\Desktop\ASP\Modul 2\asp_mvc_2\asp_mvc_2\obj\Debug\asp_mvc_2.pdb
